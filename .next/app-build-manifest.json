@@ -1,0 +1,83 @@
+{
+  "pages": {
+    "/community/page": [
+      "static/chunks/[root-of-the-server]__db31e11a._.css",
+      "static/chunks/node_modules_8313d3db._.js",
+      "static/chunks/src_app_layout_tsx_c0237562._.js",
+      "static/chunks/src_67c61df0._.js",
+      "static/chunks/node_modules_283aa79e._.js",
+      "static/chunks/src_app_community_page_tsx_21926765._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ],
+    "/page": [
+      "static/chunks/[root-of-the-server]__db31e11a._.css",
+      "static/chunks/node_modules_29e89fff._.js",
+      "static/chunks/src_components_nooriq_LogoMushaf_tsx_93c23654._.js",
+      "static/chunks/src_app_layout_tsx_c0237562._.js",
+      "static/chunks/node_modules_b7367b92._.js",
+      "static/chunks/src_84e3a503._.js",
+      "static/chunks/src_app_page_tsx_a5123dc0._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ],
+    "/prayer/page": [
+      "static/chunks/[root-of-the-server]__db31e11a._.css",
+      "static/chunks/node_modules_29e89fff._.js",
+      "static/chunks/src_components_nooriq_LogoMushaf_tsx_93c23654._.js",
+      "static/chunks/src_app_layout_tsx_c0237562._.js",
+      "static/chunks/src_f7adefee._.js",
+      "static/chunks/node_modules_6a4d904f._.js",
+      "static/chunks/src_app_prayer_page_tsx_a5123dc0._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ],
+    "/quran/page": [
+      "static/chunks/[root-of-the-server]__db31e11a._.css",
+      "static/chunks/node_modules_29e89fff._.js",
+      "static/chunks/src_components_nooriq_LogoMushaf_tsx_93c23654._.js",
+      "static/chunks/src_app_layout_tsx_c0237562._.js",
+      "static/chunks/src_1d22beac._.js",
+      "static/chunks/node_modules_3677dfc8._.js",
+      "static/chunks/src_app_quran_page_tsx_a5123dc0._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ],
+    "/study/page": [
+      "static/chunks/[root-of-the-server]__db31e11a._.css",
+      "static/chunks/node_modules_29e89fff._.js",
+      "static/chunks/src_components_nooriq_LogoMushaf_tsx_93c23654._.js",
+      "static/chunks/src_app_layout_tsx_c0237562._.js",
+      "static/chunks/src_02989bfc._.js",
+      "static/chunks/node_modules_b907c594._.js",
+      "static/chunks/src_app_study_page_tsx_a5123dc0._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fd44f5a4._.js",
+      "static/chunks/node_modules_next_dist_compiled_2ce9398a._.js",
+      "static/chunks/node_modules_next_dist_client_8f19e6fb._.js",
+      "static/chunks/node_modules_next_dist_2ecbf5fa._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_93808211._.js"
+    ]
+  }
+}
